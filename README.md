@@ -10,3 +10,5 @@ This project is mostly aimed at my learning to use the QuantStat package in Pyth
 <img width="1786" alt="Screenshot 2023-06-27 at 11 24 11 PM" src="https://github.com/LucasMazza42/QuantResearch/assets/47802441/594f5271-6cef-40a4-a6cb-853fb91d7828">
 <img width="1776" alt="Screenshot 2023-06-27 at 11 24 30 PM" src="https://github.com/LucasMazza42/QuantResearch/assets/47802441/e029add1-dc3a-4451-bf8a-ce58f462a79b">
 <img width="1792" alt="Screenshot 2023-06-27 at 11 24 45 PM" src="https://github.com/LucasMazza42/QuantResearch/assets/47802441/2d554b71-d830-4682-bd64-c4ed6dd83a7b">
+
+- SECTION 2: Daily returns 
