@@ -36,3 +36,46 @@ Disney's kurtosis:  10.98
 AMD's kurtosis:  17.09
 
 - All of our stocks would classify as stocks with more extreme price swings 
+- The likelihood of having large swings is more likely for these companies 
+
+Skewness: 
+  - Skewness in the context of our data: 
+      - right skew, indicates higher chance of larger returns -- values that are positive
+      - left skew, indicates lower change of larger returns or even negative -- values that are negatiive
+
+Our data: 
+Apple's skewness:  0.03
+Tesla's skewness:  0.39
+Walt Disney's skewness:  0.164
+Advances Micro Devices' skewness:  0.001
+
+- All of our stocks indicate right skew, meaning there is higher probability for larger returns 
+
+Standard deviation: 
+  - stocks with higher standard deviation mean the price from day to day deviates from the normal distribution
+  - Higher standard deviation = higher risk 
+
+Our data: 
+
+Apple's Standard Deviation from 2010 to 2023:  0.018
+
+Tesla's Standard Deviation from 2010 to 2023:  0.036
+
+Disney's Standard Deviation from 2010 to 2023:  0.016
+
+AMD's Standard Deviation from 2010 to 2023:  0.036
+
+- From this we can say Disney has the smallest price flucation 
+- We can also say Apple is a less risk investment than Tesla just based off this data
+
+Beta and alpha values: 
+  - In beta and alpha values we are comparing the volatility of a stock in comparision to the general market 
+  - In my case, I compared all of the stocks to the S&P500 
+  - Beta value of less than 1 indicates that the stock is less volatile than the market 
+  - Beta value of greater than 1 indicates that the stock is more volatile than the market 
+  - A positive alpha value means that the stock has outperformed its beta value 
+  - A negative alpha value means that the stock has underperformed its beta value 
+
+Our data: 
+
+
