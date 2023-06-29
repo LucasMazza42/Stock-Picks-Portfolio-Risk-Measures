@@ -18,3 +18,12 @@ This project is mostly aimed at my learning to use the QuantStat package in Pyth
 <img width="988" alt="Screenshot 2023-06-28 at 7 00 14 PM" src="https://github.com/LucasMazza42/QuantResearch/assets/47802441/6f82a1f6-c1ab-42de-81f5-c0cc6ab269a8">
 
 <img width="993" alt="Screenshot 2023-06-28 at 7 00 59 PM" src="https://github.com/LucasMazza42/QuantResearch/assets/47802441/922cc46f-49b6-4c18-ad2d-1bfd0b937552">
+
+- SECTION 3: Kurtosis values
+
+Kurtosis values explained:
+  - Kurtosis quantifies the heaviness of the tails of a distribution compared to a normal distribution. It measures the extent to which the distribution has outliers or extreme values.
+  - Datasets with values less than 3 generally indicate fewer outliers, so lower peaks flatter tails
+  - Datasets with values more than 3 generally indicate more outlier values, so higher peaks and heavy-weighted tails
+  - In the context of our data:
+      - Values greater than three indicated a more vali
