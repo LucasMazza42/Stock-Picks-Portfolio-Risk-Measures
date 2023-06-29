@@ -24,6 +24,15 @@ This project is mostly aimed at my learning to use the QuantStat package in Pyth
 Kurtosis values explained:
   - Kurtosis quantifies the heaviness of the tails of a distribution compared to a normal distribution. It measures the extent to which the distribution has outliers or extreme values.
   - Datasets with values less than 3 generally indicate fewer outliers, so lower peaks flatter tails
-  - Datasets with values more than 3 generally indicate more outlier values, so higher peaks and heavy-weighted tails
+  - Datasets with values more than 3 generally indicate more outlier values, so higher peaks, and heavy-weighted tails
   - In the context of our data:
-      - Values greater than three indicated a more vali
+      - Values greater than three indicated a more volatile stock.
+      - Values less than three indicated a less volatile stock.
+   
+Our data: 
+Apple's kurtosis:  5.24
+Tesla's kurtosis:  5.05
+Disney's kurtosis:  10.98
+AMD's kurtosis:  17.09
+
+- All of our stocks would classify as stocks with more extreme price swings 
