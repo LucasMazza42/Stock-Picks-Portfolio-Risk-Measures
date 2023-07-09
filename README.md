@@ -1,6 +1,6 @@
 # QuantResearch
 
-This project is mostly aimed at my learning to use the QuantStat package in Python but also introduced me to some learning on quantitative analysis of stock data. This can help with evaluating the risk of a portfolio or a specific stock.
+This project is mostly aimed at my learning to use the QuantStat package in Python but also introduced me to some learning on quantitative analysis of stock data. This can help with evaluating the risk of a portfolio or a specific stock. I am a beginner in this industry, but I am looking to add it to my skill set. 
   - Resources: https://pypi.org/project/QuantStats/ and https://medium.com/the-modern-scientist/introduction-to-quant-investing-with-python-c215d1014a25
 
 - Stocks studied in this section: Apple, Tesla, Disney, AMD
